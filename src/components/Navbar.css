@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    align-items: center;
+    /*justify-content: space-between; yoruma aldik çünkü her sey arasinda bosluk birakiyor*/
+    background-color: #21222A;
+    height: 80px;
+    padding: 35px;
+}
+
+
+
+.nav--logo_text{
+    color: #61DAFB;
+    font-weight: 700;
+    font-size: 22px;
+    margin-right: auto; /*yukaridaki yerine bunu yapinca tam logonun yanina aldi*/
+}
+
+.nav--title{
+    color: #DEEBF8;
+    font-weight: 600;
+}
+
+.nav--icon{
+    height: 30px;
+}
